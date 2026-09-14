@@ -4,18 +4,18 @@
 
 Senior Engineering Manager at Hims & Hers Health. Previously AWS and Wayfair. Author of **Supply Chains Are Distributed Systems**.
 
-[![Website](https://img.shields.io/badge/Website-Visit-164E63?style=flat)](https://showdawn.github.io/me/)
+[![Website](https://img.shields.io/badge/Website-Visit-164E63?style=flat)](https://sachidanandasingh.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat)](https://www.linkedin.com/in/sachidanand/)
-[![Book](https://img.shields.io/badge/Book-Read-92400E?style=flat)](https://showdawn.github.io/me/book/)
+[![Book](https://img.shields.io/badge/Book-Read-92400E?style=flat)](https://sachidanandasingh.com/book/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-The_Attention_Layer-FF6719?style=flat)](https://theattentionlayer.substack.com/)
 
 I work on the systems that connect software decisions with inventory, fulfillment and delivery. My engineering experience includes cloud infrastructure at AWS, delivery platforms at Wayfair, and supply chain and fulfillment engineering at Hims & Hers Health.
 
 ## Book
 
-<a href="https://showdawn.github.io/me/book/"><img src="https://showdawn.github.io/me/images/supply-chains-book.jpg" alt="Supply Chains Are Distributed Systems book cover" width="170" align="right"></a>
+<a href="https://sachidanandasingh.com/book/"><img src="https://sachidanandasingh.com/images/supply-chains-book.jpg" alt="Supply Chains Are Distributed Systems book cover" width="170" align="right"></a>
 
-**[Supply Chains Are Distributed Systems](https://showdawn.github.io/me/book/)**
+**[Supply Chains Are Distributed Systems](https://sachidanandasingh.com/book/)**
 
 How Engineering Thinking and AI Are Rebuilding the Way the World Moves Goods
 
@@ -27,7 +27,7 @@ The book connects distributed systems principles with physical operations. It ex
 | Hardcover | ISBN 9798997176112 |
 | Kindle | ASIN B0H9QRPPCZ |
 
-[Book details and reader resources](https://showdawn.github.io/me/book/) · [Amazon](https://www.amazon.com/dp/B0H9QRPPCZ)
+[Book details and reader resources](https://sachidanandasingh.com/book/) · [Amazon](https://www.amazon.com/dp/B0H9QRPPCZ)
 
 <br clear="right">
 
@@ -43,7 +43,7 @@ A runnable Python and SQLite example of duplicate deliveries, delayed events and
 
 This is an educational companion to the book. Results describe the synthetic example. The repository documents AI assistance and the assumptions that limit production use.
 
-[Professional background and engineering work](https://showdawn.github.io/me/work/)
+[Professional background and engineering work](https://sachidanandasingh.com/work/)
 
 ## Newsletter
 
@@ -53,8 +53,8 @@ This is an educational companion to the book. Results describe the synthetic exa
 
 Available session topics include **When retries change the inventory count** and **The inventory promise across a software boundary**. These are proposed sessions available for consideration.
 
-[Speaker profile](https://sessionize.com/sachidananda-singh) · [Organizer listings and community records](https://showdawn.github.io/me/community/)
+[Speaker profile](https://sessionize.com/sachidananda-singh) · [Organizer listings and community records](https://sachidanandasingh.com/community/)
 
 ## Connect
 
-Find my background and work at [showdawn.github.io/me](https://showdawn.github.io/me/). Contact me through [LinkedIn](https://www.linkedin.com/in/sachidanand/).
+Find my background and work at [sachidanandasingh.com](https://sachidanandasingh.com/). Contact me through [LinkedIn](https://www.linkedin.com/in/sachidanand/).
