@@ -45,14 +45,7 @@ This is an educational companion to the book. Results describe the synthetic exa
 
 [Professional background and engineering work](https://showdawn.github.io/me/work/)
 
-## Selected writing and interviews
-
-| Work | What it covers |
-| --- | --- |
-| [Warehouse & Logistics News](https://warehousenews.co.uk/2025/07/how-engineering-leaders-build-resilient-last-mile-systems-a-playbook-from-sachidananda-singh-senior-engineering-manager/) · Expert column | Engineering resilient delivery systems |
-| [AITech365](https://aitech365.com/guest-posts/architecting-intelligent-carrier-selection-from-data-foundations-to-real-time-optimization-in-logistics-networks/) · Expert column | Data foundations and carrier selection |
-| [Dataconomy](https://dataconomy.com/2025/01/13/leaders-need-real-ai-fluency-now-beyond-knowing-that-it-exists-sachidananda-singh-on-building-resilient-distributed-systems/) · Interview | Engineering leadership, AI and distributed systems |
-| [TechMediaToday](https://techmediatoday.com/scale-failure-and-the-hard-parts-nobody-teaches-sachidananda-singh) · Interview | Scale, failure and engineering decisions |
+## Newsletter
 
 [The Attention Layer](https://theattentionlayer.substack.com/) is my newsletter about AI, distributed systems and software engineering.
 
